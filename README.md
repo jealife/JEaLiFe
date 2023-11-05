@@ -1,6 +1,5 @@
 # Bienvenue sur mon profil GitHub ! 👋
-![Jealife](![Avatar](https://github.com/jealife/JEaLiFe/assets/83034287/8a20ebbc-6abc-4d01-bfb2-e8658d62190a)
-)
+![Jealife](https://github.com/jealife/JEaLiFe/assets/83034287/8a20ebbc-6abc-4d01-bfb2-e8658d62190a)
 Je suis Jealife, développeur front-end . 😎
 
 Je suis passionné par la création d'applications web intuitives et attrayantes qui répondent aux besoins de mes utilisateurs. 💻
