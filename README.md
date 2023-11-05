@@ -1,26 +1,34 @@
-# Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon profil GitHub ! 👋
 
-Je suis Jealife, développeur front-end. Je suis passionné par la création d'applications web intuitives et attrayantes qui répondent aux besoins de mes utilisateurs.
+Je suis Jealife, développeur front-end . 😎
 
-Mes compétences
+Je suis passionné par la création d'applications web intuitives et attrayantes qui répondent aux besoins de mes utilisateurs. 💻
 
-* Langages et frameworks
-    * React
-    * HTML
-    * CSS
-* Outils et technologies
-    * GitHub
-    * Figma
+Mes compétences 🛠️
 
-Mes objectifs
+* Langages et frameworks 🔠
+    * React ⚛️
+    * HTML 💯
+    * CSS 🧶
+* Outils et technologies 🛠️
+    * GitHub 🏦
+    * Figma 🖼️
 
-Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et mon expertise. Je suis également intéressé par le travail sur des projets innovants et à fort impact.
+Mes projets 🗺️
 
-Contactez-moi
+* [] : Une application web de [description du projet]. 🏢
+* [] : Une autre application web de [description du projet]. 🏠
 
-Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur [votre adresse e-mail] ou [votre compte Twitter].
+Mes objectifs 🎯
 
-Plus d'informations
+Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et mon expertise. 📈
+Je suis également intéressé par le travail sur des projets innovants et à fort impact. 💡
 
+Contactez-moi 💌
 
-[[Mon portfolio](https://jean-portfolio-six.vercel.app/)]
+Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur (jealife.pictures@gmail.com) ou [votre compte Twitter]. 🐦
+
+Plus d'informations 💡
+
+[] 📸
+[] 🔗
