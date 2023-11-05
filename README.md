@@ -14,11 +14,6 @@ Mes compétences 🛠️
     * GitHub 🏦
     * Figma 🖼️
 
-Mes projets 🗺️
-
-* [] : Une application web de [description du projet]. 🏢
-* [] : Une autre application web de [description du projet]. 🏠
-
 Mes objectifs 🎯
 
 Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et mon expertise. 📈
@@ -26,8 +21,7 @@ Je suis également intéressé par le travail sur des projets innovants et à fo
 
 Contactez-moi 💌
 
-Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur (jealife.pictures@gmail.com) ou [votre compte Twitter]. 🐦
-
+Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur [jealife [jealife.pictures@gmail.com]]
 Plus d'informations 💡
 
 [] 📸
