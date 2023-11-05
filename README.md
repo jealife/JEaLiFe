@@ -1,5 +1,5 @@
 # Bienvenue sur mon profil GitHub ! 👋
-
+[https://avatars.githubusercontent.com/u/83034287?v=4]
 Je suis Jealife, développeur front-end . 😎
 
 Je suis passionné par la création d'applications web intuitives et attrayantes qui répondent aux besoins de mes utilisateurs. 💻
@@ -21,8 +21,7 @@ Je suis également intéressé par le travail sur des projets innovants et à fo
 
 Contactez-moi 💌
 
-Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur [jealife [jealife.pictures@gmail.com]]
+Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur jealife.pictures@gmail.com.
 Plus d'informations 💡
 
-[] 📸
-[] 🔗
+
