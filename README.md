@@ -14,7 +14,7 @@ Je suis Jealife, développeur front-end .
     * Figma 
     * Illustrator 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jealife&theme=dark&locale=fr&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jealife&theme=dark&hide_border=true&locale=fr&mode=weekly)](https://git.io/streak-stats)
 
 Contactez-moi
 
