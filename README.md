@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h4c3AwN2k4ZjJxNjk3OWplaHhuMGE2ZmZ6NGMwcnRkd2Yyem4zZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp
+
 Je suis Jealife, développeur front-end .
 
 * Languages et frameworks 🔠
