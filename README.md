@@ -3,9 +3,7 @@
 ![Jealife](https://github.com/jealife/JEaLiFe/assets/83034287/29a19fcc-fcfc-4568-b611-617a07d495be)
 
 
-Je suis Jealife, développeur front-end . 😎
-
-Mes compétences 🛠️
+Je suis Jealife, développeur front-end .
 
 * Languages et frameworks 🔠
 
