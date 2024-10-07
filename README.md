@@ -17,12 +17,9 @@ Mes compétences 🛠️
     * Figma 
     * Illustrator 
 
-Mes objectifs 🎯
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jealife&theme=dark&locale=fr&mode=weekly" alt="GitHub Streak" /></a>
 
-Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et mon expertise. 📈
-Je suis également intéressé par le travail sur des projets innovants et à fort impact. 💡
-
-Contactez-moi 
+Contactez-moi
 
 Pour en savoir plus sur mon travail, n'hésitez pas à me contacter sur jealife.pictures@gmail.com.
 Plus d'informations 💡
