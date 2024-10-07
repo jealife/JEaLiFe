@@ -1,5 +1,5 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBoc2hhc2JkbHRoaWczMGRwbWJsNGI4ZHhrYmU2MDFjbDJ5bXMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBoc2hhc2JkbHRoaWczMGRwbWJsNGI4ZHhrYmU2MDFjbDJ5bXMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif)
-<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBoc2hhc2JkbHRoaWczMGRwbWJsNGI4ZHhrYmU2MDFjbDJ5bXMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif' alt="dev gif" style="width: 300px; border-radius: 22px;">
+
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBoc2hhc2JkbHRoaWczMGRwbWJsNGI4ZHhrYmU2MDFjbDJ5bXMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif' alt="dev gif" style="width: 300px; border-radius: 34px;">
 <h1 style="font-weight=800;">
 Je suis Jealife, développeur front-end .
 </h1>
