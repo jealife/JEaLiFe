@@ -1,6 +1,4 @@
-# Bienvenue sur mon profil GitHub ! 👋
-
-![Jealife](https://github.com/jealife/JEaLiFe/assets/83034287/29a19fcc-fcfc-4568-b611-617a07d495be)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 
 Je suis Jealife, développeur front-end .
