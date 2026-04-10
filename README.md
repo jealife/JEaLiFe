@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBoc2hhc2JkbHRoaWczMGRwbWJsNGI4ZHhrYmU2MDFjbDJ5bXMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="300" alt="Developer GIF" />
@@ -7,7 +6,7 @@
 
 ### Développeur Front-End • UI Designer • Creative Builder
 
-Je crée des interfaces modernes, intuitives et performantes,  
+Je crée des interfaces modernes, intuitives et performantes,
 avec un fort accent sur l’expérience utilisateur et l’identité visuelle.
 
 </div>
@@ -29,31 +28,30 @@ avec un fort accent sur l’expérience utilisateur et l’identité visuelle.
 
 ## 🛠️ Outils & Technologies
 
-- Git & GitHub
-- Figma
-- Adobe Illustrator
-- VS Code
-- Responsive Design
-- UI/UX Prototyping
+* Git & GitHub
+* Figma
+* Adobe Illustrator
+* VS Code
+* Responsive Design
+* UI/UX Prototyping
 
 ---
 
 ## 📊 Activité GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jealife&theme=dark&hide_border=true&locale=fr&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jealife\&theme=dark\&hide_border=true\&locale=fr\&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Contact
 
-📧 **jealife.pictures@gmail.com**
+📧 **[jealife.pictures@gmail.com](mailto:jealife.pictures@gmail.com)**
 
 ---
 
 ## 💡 À propos de moi
 
-Passionné par le **développement front-end**, le **branding digital** et le **design UI/UX**,  
+Passionné par le **développement front-end**, le **branding digital** et le **design UI/UX**,
 je transforme les idées en expériences digitales impactantes.
 
 > *Code propre • Design fort • Expérience fluide*
-```
