@@ -39,8 +39,7 @@ avec un fort accent sur l’expérience utilisateur et l’identité visuelle.
 
 ## 📊 Activité GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jealife\&theme=dark\&hide_border=true\&locale=fr\&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jealife&locale=fr)](https://git.io/streak-stats)
 ---
 
 ## 📫 Contact
